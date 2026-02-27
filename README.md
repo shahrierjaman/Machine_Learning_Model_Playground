@@ -98,12 +98,14 @@ enables users to:
 
 Create a folder named `screenshots/` and add:
 
+-   da.png
 -   dataset.png
--   eda.png
--   preprocessing.png
--   training.png
--   comparison.png
--   explainability.png
+-   eda1.png
+-   eda2.png
+-   eda3.png
+-   preprocess.png
+-   model.png
+-   modelcompare.png
 
 ------------------------------------------------------------------------
 
