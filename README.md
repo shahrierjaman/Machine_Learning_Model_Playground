@@ -176,12 +176,12 @@ streamlit run app.py
 
 ## ▶️ Usage
 
-1.  Upload a CSV dataset\
-2.  Select target column\
-3.  Perform EDA\
-4.  Build preprocessing pipeline\
-5.  Train models\
-6.  Compare results\
+1.  Upload a CSV dataset
+2.  Select target column
+3.  Perform EDA
+4.  Build preprocessing pipeline
+5.  Train models
+6.  Compare results
 7.  Analyze explainability
 
 ------------------------------------------------------------------------
@@ -190,10 +190,10 @@ streamlit run app.py
 
 This app is Streamlit Cloud ready.
 
-1.  Push project to GitHub\
-2.  Visit https://share.streamlit.io\
-3.  Select repository\
-4.  Set main file: app.py\
+1.  Push project to GitHub
+2.  Visit https://share.streamlit.io
+3.  Select repository
+4.  Set main file: app.py
 5.  Click Deploy
 
 ------------------------------------------------------------------------
@@ -206,11 +206,11 @@ v1.0 -- Stable
 
 ## 🔮 Future Roadmap
 
--   Hyperparameter tuning\
--   Model export & download\
--   Experiment tracking\
--   NLP support\
--   PDF report export\
+-   Hyperparameter tuning
+-   Model export & download
+-   Experiment tracking
+-   NLP support
+-   PDF report export
 -   UI/UX enhancements
 
 ------------------------------------------------------------------------
