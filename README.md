@@ -11,10 +11,10 @@ platform** built with **Streamlit**.\
 This application allows users to upload datasets, perform deep EDA,
 build advanced preprocessing pipelines, train and evaluate multiple ML
 models, compare results, and understand model decisions using
-explainability techniques.
+explainability techniques. 
 
 > 🎯 Designed as a **portfolio-grade ML system**, not a simple demo.
-
+![Live Demo](https://machine-learning-model-playground.streamlit.app/)
 ------------------------------------------------------------------------
 
 ## 📑 Table of Contents
