@@ -96,16 +96,65 @@ enables users to:
 
 ## 🖼 Screenshots
 
-Create a folder named `screenshots/` and add:
+A visual walkthrough of the **Machine Learning Model Playground** built with Streamlit.
 
--   da.png
--   dataset.png
--   eda1.png
--   eda2.png
--   eda3.png
--   preprocess.png
--   model.png
--   modelcompare.png
+---
+
+### 📊 Dashboard
+
+<p align="center">
+  <img src="screenshots/da.png" width="900">
+</p>
+
+---
+
+### 📂 Dataset Upload & Overview
+
+<p align="center">
+  <img src="screenshots/dataset.png" width="900">
+</p>
+
+---
+
+### 🔍 Exploratory Data Analysis (EDA)
+
+<p align="center">
+  <img src="screenshots/eda1.png" width="900">
+</p>
+
+<p align="center">
+  <img src="screenshots/eda2.png" width="900">
+</p>
+
+<p align="center">
+  <img src="screenshots/eda3.png" width="900">
+</p>
+
+---
+
+### ⚙️ Preprocessing Pipeline Builder
+
+<p align="center">
+  <img src="screenshots/preprocess.png" width="900">
+</p>
+
+---
+
+### 🤖 Model Training & Evaluation
+
+<p align="center">
+  <img src="screenshots/model.png" width="900">
+</p>
+
+---
+
+### 📈 Model Comparison Dashboard
+
+<p align="center">
+  <img src="screenshots/modelcompare.png" width="900">
+</p>
+
+---
 
 ------------------------------------------------------------------------
 
