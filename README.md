@@ -14,7 +14,7 @@ models, compare results, and understand model decisions using
 explainability techniques. 
 
 > 🎯 Designed as a **portfolio-grade ML system**, not a simple demo.
-![Live Demo](https://machine-learning-model-playground.streamlit.app/)
+> Live Demo : https://machine-learning-model-playground.streamlit.app/
 ------------------------------------------------------------------------
 
 ## 📑 Table of Contents
